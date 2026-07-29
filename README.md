@@ -40,6 +40,6 @@ This project analyzes marketing funnel efficiency by connecting top-of-funnel cu
 4. **Prioritize High-Value Lead Funnels:** Align sales operations to immediately engage leads originating from Organic and Paid search channels to maximize high-ticket deal closures.
 
 ## 📬 Contact & Connect
-* **Author: Abdelrahman Eldestawy
-* **Role: Data Analyst
-* **GitHub: abdalrahmaneldestawy-tech
+* Author: Abdelrahman Eldestawy
+* Role: Data Analyst
+* GitHub: abdalrahmaneldestawy-tech
