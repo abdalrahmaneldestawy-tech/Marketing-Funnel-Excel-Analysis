@@ -38,3 +38,8 @@ This project analyzes marketing funnel efficiency by connecting top-of-funnel cu
 2. **Increase Paid Search Allocation:** Expand budget allocation for `paid_search` due to its top-tier conversion efficiency (12.30%).
 3. **Optimize Email Campaigns:** Re-evaluate target criteria and email copywriting to improve low conversion rates.
 4. **Prioritize High-Value Lead Funnels:** Align sales operations to immediately engage leads originating from Organic and Paid search channels to maximize high-ticket deal closures.
+
+## 📬 Contact & Connect
+* **Author: Abdelrahman Eldestawy
+* **Role: Data Analyst
+* **GitHub: abdalrahmaneldestawy-tech
